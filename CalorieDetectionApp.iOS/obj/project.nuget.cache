@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9XsO3TqPs49xTMoqtphVN0a33ZUe7cDSzPlHS0NbLkLL7IKUdhslqQ8RDud1Md0BkBYO54rqv3jGnOSgf/tug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vidyu\\source\\repos\\CalorieDetectionApp\\CalorieDetectionApp\\CalorieDetectionApp.iOS\\CalorieDetectionApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vidyu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vidyu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\vidyu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
